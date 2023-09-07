@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"New Mysterious Animatronics - Discover nine never-before-seen animatronic creatures haunting your pizzeria.",
+   "photo1":"https://iili.io/J9VCkGf.jpg"},
+  {"desc2":"Reverse Nightmare Mode - Flip the script and become the hunted, pursued by the animatronics.",
+"photo2":"https://iili.io/J9VCwjn.jpg"},
+  {"desc3":"The Return of Springtrap - Survive a terrifying new incarnation of the infamous antagonist.",
+"photo3":"https://iili.io/J9VCeCG.jpg"},
+  {"desc4":"The Origins Mystery- Uncover the secret history of Freddy Fazbear's Pizza through scattered documents and objects.",
+"photo4":"https://iili.io/J9VCNQs.jpg"},
+  {"desc5":"Extreme Custom Nights- Test your skills with customizable difficulty levels.",
+"photo5":"https://iili.io/J9VCS3l.png"},
+  {"descd":"Assault of the Animatronics- Survive a massive onslaught of all animatronics at once.",
+"photod":"https://iili.io/J9VCNQs.jpg"}
    ]
  
 }
